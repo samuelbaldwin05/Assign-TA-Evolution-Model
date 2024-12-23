@@ -1,0 +1,14 @@
+Launching pytest with arguments /Users/jack/Desktop/DS3500/DS3500_HW5/test_assignta.py --no-header --no-summary -q in /Users/jack/Desktop/DS3500/DS3500_HW5
+
+============================= test session starts ==============================
+collecting ... collected 5 items
+
+test_assignta.py::test_overallocate PASSED                               [ 20%]
+test_assignta.py::test_conflicted_sections PASSED                        [ 40%]
+test_assignta.py::test_undersupport PASSED                               [ 60%]
+test_assignta.py::test_unwilling PASSED                                  [ 80%]
+test_assignta.py::test_unpreferred PASSED                                [100%]
+
+============================== 5 passed in 0.28s ===============================
+
+Process finished with exit code 0

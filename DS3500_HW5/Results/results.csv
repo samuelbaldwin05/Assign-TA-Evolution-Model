@@ -1,0 +1,7 @@
+groupname,overallocation,conflicts,undersupport,unwilling,unpreferred
+jms,0,0,0,2,0
+jms,0,0,0,1,1
+jms,0,0,2.0,0,0
+jms,0,0,1.0,0,1
+jms,0,0,1.0,1,0
+jms,0,0,0,0,2
